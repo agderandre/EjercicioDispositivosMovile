@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="true">Surfing hawaii</string>
+    <string name="username" translatable="true">Username</string>
+    <string name="new_user" translatable="true">New User</string>
+    <string name="password" translatable="true">Password</string>
+    <string name="id" translatable="true">ID</string>
+    <string name="register" translatable="true">Register</string>
+    <string name="return_log" translatable="true">Return to log</string>
+    <string name="lo_gin" translatable="true" > Log in</string>
+    <string name="login" translatable="true" >Login</string>
+    <string name="new_to_app" translatable="true" >New to our app? register</string>
+</resources>
